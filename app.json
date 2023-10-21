@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Vishnuat/NEW-Filter-Bot/Tamilans-Working-Branch",
-    "repository": "https://github.com/Vishnuat/NEW-Filter-Bot/Tamilans-Working-Branch",
+    "website": "https://github.com/Vishnuat/omfilter/Tamilans-Working-Branch",
+    "repository": "https://github.com/Vishnuat/omfilter/Tamilans-Working-Branch",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
